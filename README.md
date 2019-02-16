@@ -23,4 +23,4 @@ dotnet run
 
 
 ## Swagger
-http://localhost:5000/swagger ou https://localhost:5001/swagger 
+http://localhost:5000/swagger
